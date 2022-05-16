@@ -11,7 +11,8 @@ I'm a Front-End Developer, currently living in Brazil. I'm always seeking to imp
 :scroll: Fluent in English and Portuguese
 
 ### Check out my Blog!
-- [Medium] - https://medium.com/@paulohfev
+- I'm on [Medium](https://medium.com/@paulohfev).
+Be sure to follow me to stay in tune! And if you liked the weekly content, feel free to clap to the posts and share on your social media - it helps tremendously!
 
 ### Tech Stack
 
