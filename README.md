@@ -10,6 +10,9 @@ I'm a Front-End Developer, currently living in Brazil. I'm always seeking to imp
 :books: Currently seeking to improve my skills with JavaScript and related techs. Aspiring to become Fullstack <br />
 :scroll: Fluent in English and Portuguese
 
+### Social Media
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=https://www.linkedin.com/in/phfevangelista/)
+
 ### Check out my Blog!
 - I'm on [Medium](https://medium.com/@paulohfev).
 Be sure to follow me to stay in tune! And if you liked the weekly content, feel free to clap to the posts and share on your social media - it helps tremendously!
@@ -20,3 +23,4 @@ Be sure to follow me to stay in tune! And if you liked the weekly content, feel 
 
 ### Other Works
 - [CodePen](https://codepen.io/paulohfev)
+- [Gists](https://gist.github.com/paulohfev)
