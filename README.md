@@ -11,7 +11,7 @@ I'm a Front-End Developer, currently living in Brazil. I'm always seeking to imp
 :scroll: Fluent in English and Portuguese
 
 ### Social Media
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=https://www.linkedin.com/in/phfevangelista/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phfevangelista/)
 
 ### Check out my Blog!
 - I'm on [Medium](https://medium.com/@paulohfev).
