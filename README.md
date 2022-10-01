@@ -7,7 +7,7 @@ I'm a Front-End Developer, currently living in Brazil. I'm always seeking to imp
 🔭 I’m currently working at [Codelitt](https://codelitt.com/) as a Software Engineer <br />
 :computer: Building awesome applications with React, Next.js and Jekyll.rb <br />
 :muscle: Passionate about making cool animations and transition for the web <br />
-:books: Currently seeking to improve my skills with JavaScript and related techs. Aspiring to become Fullstack <br />
+:books: Currently improving my skills with JavaScript and related techs. Aspiring to become a Fullstack Developer <br />
 :scroll: Fluent in English and Portuguese
 
 ### Social Media
