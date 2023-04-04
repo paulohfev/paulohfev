@@ -5,10 +5,13 @@ I'm a Front-End Developer, currently living in Brazil. I'm always seeking to imp
 ### Overview
 
 🔭 I’m currently working at [Codelitt](https://codelitt.com/) as a Software Engineer <br />
-:computer: Building awesome applications with React, Next.js and Jekyll.rb <br />
+:computer: Building awesome applications with React.js and Next.js <br />
 :muscle: Passionate about making cool animations and transition for the web <br />
-:books: Currently improving my skills with JavaScript and related techs. Aspiring to become a Fullstack Developer <br />
-:scroll: Fluent in English and Portuguese
+:books: Currently improving my skills with JavaScript and related techs. Aspiring to become a Fullstack Developer.
+:books: I'm also currently studying backened development, focusing on the JavaScript language and tech stack:
+  - Node.js, Express.js and Nest.js
+ <br />
+:scroll: Fluent in English and Portuguese (Brazilian)
 
 ### Social Media
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phfevangelista/)
