@@ -26,5 +26,5 @@ Be sure to follow me to stay in tune! And if you liked the content, feel free to
 
 ### Other Works and Links
 - [CodePen](https://codepen.io/paulohfev)
-- [Gists](https://gist.github.com/paulohfev)
-- [Exercism](https://exercism.org/profiles/paulohfev) - Check out my progress in Exercism
+- [Gists](https://gist.github.com/paulohfev) - Check out some of my easy-to-use solutions or code-blocks.
+- [Exercism](https://exercism.org/profiles/paulohfev) - Check out my progress in Exercism.
