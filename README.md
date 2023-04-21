@@ -4,13 +4,10 @@ I'm a Front-End Developer, currently living in Brazil. I'm always seeking to imp
 
 ### Overview
 
-🔭 I’m currently working at [Codelitt](https://codelitt.com/) as a Software Engineer <br />
-:computer: Building awesome applications with React.js and Next.js <br />
+:computer: Experience in building awesome applications with React.js, Next.js, Redux.js, TypeScript and Jekyll.rb <br />
 :muscle: Passionate about making cool animations and transition for the web <br />
-:books: Currently improving my skills with JavaScript and related techs. Aspiring to become a Fullstack Developer.
-:books: I'm also currently studying backened development, focusing on the JavaScript language and tech stack:
-  - Node.js, Express.js and Nest.js
- <br />
+:books: Currently improving my skills with JavaScript and related techs. Aspiring to become a Fullstack Developer. <br />
+:books: Knowledgeable with Node.js, Express.js and Nest.js <br />
 :scroll: Fluent in English and Portuguese (Brazilian)
 
 ### Social Media
