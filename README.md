@@ -17,7 +17,7 @@ I'm a Front-End Developer, currently living in Brazil. I'm always seeking to imp
 </div>
 
 ### Social Media
-[![LinkedIn](https://img.shiedraculalds.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phfevangelista/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phfevangelista/)
 
 ### Other Works and Links
 - [CodePen](https://codepen.io/paulohfev)
