@@ -10,16 +10,18 @@ I'm a Front-End Developer, currently living in Brazil. I'm always seeking to imp
 :books: Knowledgeable with Node.js, Express.js and Nest.js <br />
 :scroll: Fluent in English and Portuguese (Brazilian)
 
+<div>
+  <a href="https://github.com/paulohfev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohfev&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohfev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide=stars"/>
+</div>
+
 ### Social Media
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phfevangelista/)
+[![LinkedIn](https://img.shiedraculalds.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phfevangelista/)
 
 ### Check out my Blog!
 - I'm on [Medium](https://medium.com/@paulohfev).
 Be sure to follow me to stay in tune! And if you liked the content, feel free to clap to the posts and share on your social media - it helps tremendously!
-
-### Tech Stack
-
-![Hugo](https://img.shields.io/badge/-Hugo-pink?style=for-the-badge&logo=hugo&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![Jekyll.rb](https://img.shields.io/badge/-Jekyll.rb-red?style=for-the-badge&logo=jekyll) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js) ![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
 
 ### Other Works and Links
 - [CodePen](https://codepen.io/paulohfev)
