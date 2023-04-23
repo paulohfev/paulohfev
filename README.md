@@ -19,10 +19,6 @@ I'm a Front-End Developer, currently living in Brazil. I'm always seeking to imp
 ### Social Media
 [![LinkedIn](https://img.shiedraculalds.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phfevangelista/)
 
-### Check out my Blog!
-- I'm on [Medium](https://medium.com/@paulohfev).
-Be sure to follow me to stay in tune! And if you liked the content, feel free to clap to the posts and share on your social media - it helps tremendously!
-
 ### Other Works and Links
 - [CodePen](https://codepen.io/paulohfev)
 - [Gists](https://gist.github.com/paulohfev) - Check out some of my easy-to-use solutions or code-blocks.
