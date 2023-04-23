@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm a Front-End Developer, currently living in Brazil. I'm always seeking to improve my skills!
-
-### Overview
+I'm a Front-End Developer, currently living in Brazil.
 
 :computer: Experience in building awesome applications with React.js, Next.js, Redux.js, TypeScript and Jekyll.rb <br />
 :muscle: Passionate about making cool animations and transition for the web <br />
