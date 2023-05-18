@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm a Front-End Developer, currently living in Brazil.
+I'm a Software Engineer, currently living in Brazil.
 
 :computer: Experience building awesome applications with React.js, Next.js, Redux.js, TypeScript and Jekyll.rb <br />
 :muscle: Always seeking to improve my skills! <br />
-:books: Currently improving my skills with JavaScript and related techs. Aspiring to become a Fullstack Developer. <br />
+:books: Currently improving my skills with JavaScript and related techs. <br />
 :books: Knowledgeable with Node.js, Express.js, Nest.js, SQL, MySQL and Docker <br />
 :scroll: Fluent in English and Portuguese (Brazilian)
 
