@@ -16,8 +16,3 @@ I'm a Software Engineer, currently living in Brazil.
 
 ### Social Media
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phfevangelista/)
-
-### Other Works and Links
-- [CodePen](https://codepen.io/paulohfev)
-- [Gists](https://gist.github.com/paulohfev) - Check out some of my easy-to-use solutions or code-blocks.
-- [Exercism](https://exercism.org/profiles/paulohfev) - Check out my progress in Exercism.
