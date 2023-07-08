@@ -13,5 +13,13 @@ I'm a Software Engineer, currently living in Brazil.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohfev&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
-### Social Media
+### Blog posts
+
+I'm on [Medium](https://medium.com/@paulohfev)! Have a look at some of my blog posts:
+- [How to create a React Tooltip Component](https://medium.com/@paulohfev/problem-solving-how-to-create-a-react-tooltip-component-546e4e0d5f7d)
+- [Custom React Hook for keydown events](https://medium.com/@paulohfev/problem-solving-custom-react-hook-for-keydown-events-e68c8b0a371)
+- [5 Useful JavaScript Regexes](https://medium.com/@paulohfev/5-useful-javascript-regexes-a96cc14798f4)
+- [How to truncate text with CSS](https://medium.com/@paulohfev/problem-solving-how-to-truncate-text-with-css-302b9be2bd64)
+
+### Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phfevangelista/)
