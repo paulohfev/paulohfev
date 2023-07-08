@@ -11,7 +11,6 @@ I'm a Software Engineer, currently living in Brazil.
 <div>
   <a href="https://github.com/paulohfev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohfev&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohfev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide=stars"/>
 </div>
 
 ### Social Media
