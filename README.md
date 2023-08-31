@@ -16,6 +16,7 @@ I'm a Software Engineer, currently living in Brazil.
 ### Blog posts
 
 I'm on [Medium](https://medium.com/@paulohfev)! Have a look at some of my blog posts:
+- [How to show file attachment previews in forms using React](https://medium.com/@paulohfev/how-to-show-file-attachment-previews-in-forms-using-react-34205b3839bc)
 - [How to create a React Tooltip Component](https://medium.com/@paulohfev/problem-solving-how-to-create-a-react-tooltip-component-546e4e0d5f7d)
 - [Custom React Hook for keydown events](https://medium.com/@paulohfev/problem-solving-custom-react-hook-for-keydown-events-e68c8b0a371)
 - [5 Useful JavaScript Regexes](https://medium.com/@paulohfev/5-useful-javascript-regexes-a96cc14798f4)
