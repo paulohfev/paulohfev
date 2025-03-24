@@ -2,7 +2,7 @@
 
 I'm a Software Engineer, currently living in Brazil.
 
-:computer: Experience building awesome applications with The React Ecosysten (React.js, Next.js, Redux.js), TypeScript and Jekyll.rb <br />
+:computer: Experience building applications with the React Ecosysten (React.js, Next.js, Redux.js), TypeScript, Material UI, Zustand and Jekyll.rb <br />
 :muscle: Always seeking to improve my skills! <br />
 :books: Currently improving my skills with JavaScript and related techs. <br />
 :books: Knowledgeable with Node.js, Express.js, Nest.js, SQL, MySQL, MongoDB and Docker <br />
