@@ -1,12 +1,20 @@
 ## Hi there 👋
 
-I'm a Software Engineer, currently living in Brazil.
+My name is Paulo Evangelista and I'm a Software Engineer, currently living in Brazil.
 
-:computer: Experience building applications with the React Ecosysten (React.js, Next.js, Redux.js), TypeScript, Material UI, Zustand and Jekyll.rb <br />
-:muscle: Always seeking to improve my skills! <br />
-:books: Currently improving my skills with JavaScript and related techs. <br />
-:books: Knowledgeable with Node.js, Express.js, Nest.js, MySQL, MongoDB and Docker <br />
-:scroll: Fluent in English and Portuguese (Brazilian)
+### 💻 Tech Stack & Experience
+- Strong background in the React Ecosystem: React.js, Next.js, Redux.js, TypeScript, and Material UI.
+- Familiar with backend technologies: Node.js, Express.js, Nest.js, MySQL, and MongoDB.
+- Familiar with cloud services: Heroku and Vercel.
+- Experienced with Jekyll.rb for static site generation.
+- Experienced using Zustand and Docker.
+
+### 📚 What I'm currently Learning
+- Deepening my expertise in JavaScript and its ecosystem.
+- Exploring advanced frontend architectures and performance optimizations.
+
+### 🌍 Languages
+- Fluent in English and Portuguese (Brazilian).
 
 <div>
   <a href="https://github.com/paulohfev">
