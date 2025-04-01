@@ -7,11 +7,7 @@ My name is Paulo Evangelista and I'm a Software Engineer, currently living in Br
 - Familiar with backend technologies: Node.js, Express.js, Nest.js, MySQL, and MongoDB.
 - Familiar with cloud services: Heroku and Vercel.
 - Experienced with Jekyll.rb for static site generation.
-- Experienced using Zustand and Docker.
-
-### 📚 What I'm currently Learning
-- Deepening my expertise in JavaScript and its ecosystem.
-- Exploring advanced frontend architectures and performance optimizations.
+- Experienced using Tanstack Query/React Query, Zustand and Docker.
 
 ### 🌍 Languages
 - Fluent in English and Portuguese (Brazilian).
