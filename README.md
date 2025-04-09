@@ -8,7 +8,7 @@ My name is Paulo Evangelista and I'm a Software Engineer, currently living in Br
 - Familiar with cloud services: Azure DevOps, Heroku and Vercel.
 - Experienced with Jekyll.rb for static site generation.
 - Experienced using Tanstack Query/React Query, React-hook-form, Zustand and Docker.
-- Experienced integrating AI tools with Web applications.
+- Experienced integrating AI tools with Web applications: OpenAI's chatGPT
 
 ### 🌍 Languages
 - Fluent in English and Portuguese (Brazilian).
