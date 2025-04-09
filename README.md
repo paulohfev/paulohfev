@@ -3,11 +3,12 @@
 My name is Paulo Evangelista and I'm a Software Engineer, currently living in Brazil.
 
 ### 💻 Tech Stack & Experience
-- Strong background in the React Ecosystem: React.js, Next.js, Redux.js, TypeScript, and Material UI.
-- Familiar with backend technologies: Node.js, Express.js, Nest.js, MySQL, and MongoDB.
-- Familiar with cloud services: Heroku and Vercel.
+- Strong background in the React Ecosystem: React.js, Next.js, Redux.js, TypeScript, Semantic UI and Material UI.
+- Familiar with backend technologies: Node.js, Express.js, Nest.js, MySQL, Postgres and MongoDB.
+- Familiar with cloud services: Azure DevOps, Heroku and Vercel.
 - Experienced with Jekyll.rb for static site generation.
-- Experienced using Tanstack Query/React Query, React-hook-form Zustand and Docker.
+- Experienced using Tanstack Query/React Query, React-hook-form, Zustand and Docker.
+- Experienced integrating AI tools with Web applications.
 
 ### 🌍 Languages
 - Fluent in English and Portuguese (Brazilian).
@@ -25,5 +26,5 @@ I'm on [Medium](https://medium.com/@paulohfev)! Have a look at some of my blog p
 - [How to create a React Tooltip Component](https://medium.com/@paulohfev/problem-solving-how-to-create-a-react-tooltip-component-546e4e0d5f7d)
 - [Custom React Hook for keydown events](https://medium.com/@paulohfev/problem-solving-custom-react-hook-for-keydown-events-e68c8b0a371)
 
-### Connect with me
+### Connect with me on LinkedIn
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phfevangelista/)
